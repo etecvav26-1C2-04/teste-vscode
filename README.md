@@ -3,7 +3,6 @@
 <head>
 <title>Portfólio - Programação Web</title>
 </head>
-</body>
 <header>
   <h1>Repositório criado para armazenar atividades, exercícios e projetos desenvolvidos em aula</h1>
 </header>
