@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-<title>Portfólio - Programação Web</title>
-</head>
 <header>
-  <h1>Repositório criado para armazenar atividades, exercícios e projetos desenvolvidos em aula</h1>
+  <h1>💻 Programação Web - Atividades e Projetos</h1>
+  <p>Repositório criado para armazenar atividades, exercícios e projetos desenvolvidos em aula</p>
 </header>
+<body>
 <section>
   <h2>✨ Integrantes</h2>
   <div class="card">
