@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glam Makeup</title>
+</head>
+
+<body style="font-family: Arial, sans-serif; margin: 0; background-color: #fffaf0;">
+
+    <!-- HEADER -->
+    <header style="background-color: #ff99c8; color: black; text-align: center; padding: 20px;">
+        <h1 style="color: white;"> ✨ Glam Makeup ✨</h1>
+        <p style="font-size:18px; color: rgb(255, 255, 255)"> Maquiagem fácil e rápida</p>
+    </header>
+
+    <!-- MENU -->
+    <nav style="text-align: center; padding: 10px; background-color: #ffe6e6;">
+        <a href="#sobre" style="margin: 10px; text-decoration: none; color: #ff99c8;">Sobre</a>
+        <a href="#produtos" style="margin: 10px; text-decoration: none; color: #ff99c8;">Produtos</a>
+        <a href="#contato" style="margin: 10px; text-decoration: none; color: #ff99c8;">Contato</a>
+    </nav>
+
+    <!-- SOBRE -->
+    <section id="sobre" style="padding: 20px; text-align: center;">
+        <h2>Sobre</h2>
+        <p>Compartilhamos dicas simples de maquiagem para o dia a dia. Nada complicado, só o básico.</p>
+    </section>
+
+    <!-- PRODUTOS -->
+    <section id="produtos" style="padding: 20px; text-align: center;">
+        <h2>Produtos</h2>
+        <ul style="list-style: none; padding: 0;">
+            <li>Batom</li>
+            <li>Sombra</li>
+            <li>Pó</li>
+            <li>Pincel</li>
+        </ul>
+    </section>
+
+    <!-- BOTÃO -->
+    <section style="text-align: center; padding: 20px;">
+        <button style="padding: 12px 25px; background-color: #ff99c8; border: none; color: white; cursor: pointer; font-size: 16px;">+Informações</button>
+    </section>
+
+    <!-- CONTATO -->
+    <section id="contato" style="padding: 20px; text-align: center;">
+        <h2>Contato</h2>
+        <p>Email: glam@makeup.com</p>
+    </section>
+
+    <!-- FOOTER -->
+    <footer style="background-color: #ff99c8; color: white; text-align: center; padding: 10px;">
+        <p>© 2026 Makeup Simple</p>
+    </footer>
+
+</body>
+
+</html>
